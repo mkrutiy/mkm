@@ -4255,7 +4255,7 @@ fieldset[disabled] .form-control:hover {
 /* ---- 10.2 Counters - Numbers ---- */
 .number-counters, .number-counters-dark-bg {
   position: relative;
-  background: #ccc url(http://placehold.it/2102x1578);
+  background: #ccc url('../images/numbers_bg.jpg');
   background-size: cover;
   background-position: 50%;
   background-attachment: fixed;

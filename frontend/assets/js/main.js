@@ -276,19 +276,19 @@
 						useGrouping : true,
 						separator : ','
 					};
-
+					// MISHA
 					// TODO fix numbers
 					// Counter 1
-					var counter1 = new CountUp('count-1', 0, 467, 0, 3, options);
+					var counter1 = new CountUp('count-1', 0, 933127, 0, 3, options);
 					counter1.start();
 					// Counter 2
-					var counter2 = new CountUp('count-2', 0, 2835, 0, 3, options);
+					var counter2 = new CountUp('count-2', 0, 79, 0, 3, options);
 					counter2.start();
 					// Counter 3
-					var counter3 = new CountUp('count-3', 0, 46930, 0, 3, options);
+					var counter3 = new CountUp('count-3', 0, 436, 0, 3, options);
 					counter3.start();
 					// Counter 4
-					var counter4 = new CountUp('count-4', 0, 69696969, 0, 3, options);
+					var counter4 = new CountUp('count-4', 0, 21, 0, 3, options);
 					counter4.start();
 					// init only once
 					this.destroy();
