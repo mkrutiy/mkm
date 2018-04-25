@@ -2166,6 +2166,7 @@ fieldset[disabled] .form-control:hover {
 /* ---- 7.1 Footer Widgets ---- */
 .footer-widgets {
   background: #111;
+  width: 100%;
 }
 
 .footer-widgets .widget .header-widget {
