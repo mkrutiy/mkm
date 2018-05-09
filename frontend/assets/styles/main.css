@@ -3024,11 +3024,11 @@ fieldset[disabled] .form-control:hover {
 }
 
 .navbar-trans .navbar-logo {
-  content: url(../images/mkm_logo_light.png);
+  content: url(../images/mk_dash_1x.png);
 }
 
 .navbar-trans .navbar-logo-dark {
-  content: url(../images/mkm_logo.png);
+  content: url(../images/mk_dash_1x_dark.png);
 }
 
 .navbar-trans:not(.navbar-inverse) .navbar-nav li a:focus,
